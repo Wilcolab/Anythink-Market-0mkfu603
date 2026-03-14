@@ -1,1 +1,0 @@
-"Write a JavaScript function to convert a string to camelCase."

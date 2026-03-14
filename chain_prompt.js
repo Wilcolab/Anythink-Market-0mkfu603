@@ -1,1 +1,0 @@
-"Step 1: Replace all spaces and underscores with a hyphen. Step 2: Convert the entire string to lowercase. Step 3: Return an empty string if the input is null."
